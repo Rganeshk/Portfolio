@@ -52,7 +52,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="/RamyaGanesh_Resume_.pdf"
+            href="https://drive.google.com/file/d/1moSL5R0rXE6GvP3eFW4NciYcPGCRqrua/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="text-sm px-4 py-2 rounded-full border border-accent text-accent hover:bg-accent hover:text-white transition-all duration-300"
@@ -92,7 +92,7 @@ export default function Navbar() {
                 </a>
               ))}
               <a
-                href="/RamyaGanesh_Resume_.pdf"
+                href="https://drive.google.com/file/d/1moSL5R0rXE6GvP3eFW4NciYcPGCRqrua/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm px-4 py-2 rounded-full border border-accent text-accent hover:bg-accent hover:text-white transition-all duration-300 text-center"
