@@ -48,7 +48,7 @@ export default function Hero() {
             transition={{ duration: 0.5, delay: 0.3 }}
             className="text-gray-400 max-w-xl text-lg leading-relaxed mb-8 mx-auto lg:mx-0"
           >
-            I&apos;ve spent 3+ years architecting cloud-native applications,
+            I&apos;ve spent 3+ years building cloud-native applications,
             scalable ML systems, and real-time data platforms — whether
             it&apos;s breathing new life into legacy systems or building
             from scratch, I love turning bold ideas into production-ready
