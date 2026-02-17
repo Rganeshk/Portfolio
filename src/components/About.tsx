@@ -51,7 +51,7 @@ export default function About() {
                   intersection of Machine Learning, Data, and Cloud
                   Infrastructure
                 </span>
-                . With 4+ years of experience at Philips Healthcare, I&apos;ve built
+                . With 3+ years of experience at Philips Healthcare, I&apos;ve built
                 scalable, reliable systems that power critical healthcare
                 workflows serving thousands of users daily.
               </p>

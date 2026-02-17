@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Ramya Ganesh | Software Engineer",
   description:
-    "Software Engineer with 4+ years of experience in cloud-native systems, ML infrastructure, and distributed data platforms. CMU School of Computer Science.",
+    "Software Engineer with 3+ years of experience in cloud-native systems, ML infrastructure, and distributed data platforms. CMU School of Computer Science.",
   keywords: [
     "Software Engineer",
     "ML Infrastructure",
